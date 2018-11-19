@@ -1,0 +1,10 @@
+$font-stack : Helvetica, sans-serif;
+$primary-color: blue;
+$center-text:center;
+
+body {
+  font:2em $font-stack;
+  color:$primary-color;
+  text-align:$center-text;
+
+}
